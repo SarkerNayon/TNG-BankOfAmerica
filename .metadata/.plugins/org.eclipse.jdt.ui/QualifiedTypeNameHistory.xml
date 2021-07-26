@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.Sister"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.Brother"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.Niece"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.Me"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.GrandChildren"/>
+    <fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.Uncle"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.Father"/>
+    <fullyQualifiedTypeName name="lec11_java_oop_inheritance.Grandfather"/>
+    <fullyQualifiedTypeName name="lec11_java_opp_abstraction.Taxi"/>
+    <fullyQualifiedTypeName name="lec11_java_opp_abstraction.Truck"/>
+    <fullyQualifiedTypeName name="javax.management.modelmbean.ModelMBean"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="hw4Q3JavaVariablesConstructorAndMethod.MyProfile"/>
+</qualifiedTypeNameHistroy>
