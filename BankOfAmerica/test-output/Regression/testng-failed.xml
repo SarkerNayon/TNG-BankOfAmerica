@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression]">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Unit Test(failed)">
+    <classes>
+      <class name="bankOfAmericaTest.TestBankOfAmerica">
+        <methods>
+          <include name="tearDown"/>
+          <include name="commonFiles"/>
+          <include name="OpenSavingAccount"/>
+        </methods>
+      </class> <!-- bankOfAmericaTest.TestBankOfAmerica -->
+    </classes>
+  </test> <!-- Unit Test(failed) -->
+</suite> <!-- Failed suite [Regression] -->

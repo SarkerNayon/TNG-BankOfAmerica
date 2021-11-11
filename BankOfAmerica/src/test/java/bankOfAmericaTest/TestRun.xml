@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression" >
+<parameter name="browser" value="chrome"></parameter>
+	<test name="Unit Test">
+		<classes>
+			<class name="bankOfAmericaTest.TestBankOfAmerica"></class>
+		</classes>
+	</test>
+</suite>
